@@ -16,7 +16,8 @@ on every computer within an organization.
 
 Compilation
 ==========
-Visual Studio 2012 or later is required
+Visual Studio 2012 or later is required.
+
 Eldos Callback Filter is required. See https://www.eldos.com/
 
 
